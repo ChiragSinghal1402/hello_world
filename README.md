@@ -1,3 +1,3 @@
 # hello_world
-First Repository
+First Repository to learn
 this is how we edit 
